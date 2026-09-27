@@ -8,7 +8,7 @@ UCL MSc · Product Design & User Research Background · Building auditable AI ap
 
 我是一个面向 AI 产品方向的产品探索者，关注 Agent、LLM 应用以及 AI 原生交互设计。
 
-我的背景横跨建筑、城市研究、用户研究与数字产品设计。相比“训练一个模型”，我更关注如何把 AI 能力转化为用户能够理解、信任和使用的产品流程：定义真实问题、设计 Agent Workflow、处理不确定性、建立评测方法，并通过原型与迭代验证产品判断。
+我的背景横跨建筑、城市研究、用户研究与数字产品设计。我关注如何把 AI 能力转化为用户能够理解、信任和使用的产品流程：定义真实问题、设计 Agent Workflow、处理不确定性、建立评测方法，并通过原型与迭代验证产品判断。
 
 I explore how LLM capabilities can be translated into useful, explainable and testable product experiences.
 
